@@ -24,10 +24,6 @@ Siga os passos abaixo para rodar o projeto localmente:
    cd nome-do-repositorio
    ```
 
-3. **Abra o `index.html` em qualquer navegador**
-
-   * Não precisa de servidor ou backend, é 100% front-end.
-
 ## 📦 Tecnologias usadas
 
 * **HTML5**
@@ -39,8 +35,10 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 Este projeto foi desenvolvido com base nos aprendizados da **Seção 15: Avançado - Se comunicando através da rede utilizando AJAX + HTTP**, do curso:
 
-> **JavaScript: O Guia Completo de A - Z**
-> Plataforma: [Udemy](https://www.udemy.com/)
-> Autor do Projeto: Ângelo Silvano
+* **JavaScript: O Guia Completo de A - Z**
+* Plataforma: [Udemy](https://www.udemy.com/)
+* Autor do Projeto: Ângelo Silvano
 
 ## 🧑‍💻 Autor
+
+- **Ângelo Silvano**  - *Front-End Developer* - [angelosilvanno](https://github.com/angelodsilvanno)  
