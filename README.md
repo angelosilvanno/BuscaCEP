@@ -45,7 +45,6 @@ Este projeto foi desenvolvido com base nos aprendizados da **Seção 15: Avança
 
 * **JavaScript: O Guia Completo de A - Z**
 * Plataforma: [Udemy](https://www.udemy.com/)
-* Autor do Projeto: Ângelo Silvano
 
 ## 🧑‍💻 Autor
 
