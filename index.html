@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Busca CEP</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="shortcut icon" href="./image/icone.png" type="image/x-icon">
+  <link rel="stylesheet" href="css/styles.css"/>
+  <link rel="stylesheet" href="src/input.css">
+</head>
+<body class="bg-yellow-400 min-h-screen flex items-center justify-center">
+
+  <div class="bg-white rounded-xl shadow-xl p-8 w-full max-w-2xl">
+    <h1 class="text-4xl font-extrabold text-center mb-8">BUSCA CEP</h1>
+
+    <div id="mensagem" class="text-center text-sm mt-4 font-semibold"></div>
+
+    <form id="cepForm" class="grid grid-cols-2 gap-4 mb-6">
+      <input type="text" id="cep" maxlength="9" placeholder="CEP" class="p-2 rounded bg-gray-200 focus:outline-none" />
+      <input type="text" id="rua" placeholder="Rua" class="p-2 rounded bg-gray-200 focus:outline-none" />
+
+      <input type="text" id="numero" placeholder="Número" class="p-2 rounded bg-gray-200 focus:outline-none" />
+      <input type="text" id="bairro" placeholder="Bairro" class="p-2 rounded bg-gray-200 focus:outline-none" />
+
+      <input type="text" id="cidade" placeholder="Cidade" class="p-2 rounded bg-gray-200 focus:outline-none" readonly />
+      <input type="text" id="uf" placeholder="UF" class="p-2 rounded bg-gray-200 focus:outline-none" readonly />
+    </form>
+
+    <div class="flex justify-center gap-4">
+      <button type="button" id="buscar" class="bg-blue-700 hover:bg-blue-800 text-white px-4 py-2 rounded">Buscar Endereço</button>
+      <button type="button" id="limpar" class="bg-red-600 hover:bg-red-700 text-white px-4 py-2 rounded">Limpar Campos</button>
+      <button type="button" id="salvar" class="bg-yellow-500 hover:bg-yellow-600 text-white px-4 py-2 rounded">Salvar Dados</button>
+    </div>
+  </div>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
