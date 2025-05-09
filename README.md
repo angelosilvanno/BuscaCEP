@@ -32,7 +32,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 * **HTML5** — estrutura da página.
 * **CSS3** — estilo customizado.
 * **Tailwind CSS** — framework de utilitários CSS.
-* **JavaScript (ES6+)** — lógica de busca, interação e DOM.
+* **JavaScript** — lógica de busca, interação e DOM.
 
 ### 📡 Integração com API
 
