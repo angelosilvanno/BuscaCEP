@@ -30,16 +30,12 @@ Siga os passos abaixo para rodar o projeto localmente:
 
    * Não precisa de servidor ou backend, é 100% front-end.
 
----
-
 ## 📦 Tecnologias usadas
 
 * **HTML5**
 * **CSS3 (com Tailwind CSS)**
 * **JavaScript (ES6+)**
 * **API pública ViaCEP** ([https://viacep.com.br/](https://viacep.com.br/))
-
----
 
 ## 📚 Base Teórica
 
@@ -49,11 +45,7 @@ Este projeto foi desenvolvido com base nos aprendizados da **Seção 15: Avança
 > Plataforma: [Udemy](https://www.udemy.com/)
 > Autor do Projeto: Ângelo Silvano
 
----
-
 ## 🧑‍💻 Autor
 
 Feito com 💛 por **Ângelo Silvano**
 \[Seu LinkedIn ou GitHub, se quiser incluir]
-
-```
