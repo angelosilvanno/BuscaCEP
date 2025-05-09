@@ -44,6 +44,3 @@ Este projeto foi desenvolvido com base nos aprendizados da **Seção 15: Avança
 > Autor do Projeto: Ângelo Silvano
 
 ## 🧑‍💻 Autor
-
-Feito com 💛 por **Ângelo Silvano**
-\[Seu LinkedIn ou GitHub, se quiser incluir]
