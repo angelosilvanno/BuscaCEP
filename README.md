@@ -18,18 +18,27 @@ Siga os passos abaixo para rodar o projeto localmente:
 1. **Clone o repositório**
    ```bash
    git clone https://github.com/angelosilvanno/BuscaCEP.git
+````
 
 2. **Acesse a pasta**
+
    ```bash
    cd BuscaCEP
    ```
 
 ## 📦 Tecnologias usadas
 
-* **HTML5**
-* **CSS3 (com Tailwind CSS)**
-* **JavaScript (ES6+)**
-* **API pública ViaCEP** ([https://viacep.com.br/](https://viacep.com.br/))
+### 🌐 Front-end
+
+* **HTML5** — estrutura da página.
+* **CSS3** — estilo customizado.
+* **Tailwind CSS** — framework de utilitários CSS.
+* **JavaScript (ES6+)** — lógica de busca, interação e DOM.
+
+### 📡 Integração com API
+
+* **ViaCEP** — API pública para consulta de endereços via CEP.
+  [https://viacep.com.br/](https://viacep.com.br/)
 
 ## 📚 Base Teórica
 
